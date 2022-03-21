@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Asad Mubashar
 - 👀 I’m interested in app development
-- 🌱 I’m currently learning ios development
+- 🌱 I’m currently devloping ios apps
 - 💞️ I’m looking to collaborate on ios app development
 - 📫 How to reach me asadmubashr@gmail.com
 
